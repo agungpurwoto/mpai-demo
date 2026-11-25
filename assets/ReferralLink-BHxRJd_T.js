@@ -1,0 +1,1 @@
+import{a6 as s,j as a,a7 as t}from"./index-Br3ndLmx.js";const r="mpai_ref_code";function i(){const{code:e=""}=s();return e&&sessionStorage.setItem(r,e.toUpperCase()),a.jsx(t,{to:"/signup",replace:!0})}export{r as REF_CODE_KEY,i as default};

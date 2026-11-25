@@ -1,1 +1,0 @@
-import{r as a,j as s}from"./index-Ayxx3fsJ.js";function r({setView:t}){return a.useEffect(()=>t("daily-ads"),[t]),s.jsx("div",{className:"page muted",children:"Redirecting to Daily Ads…"})}export{r as default};

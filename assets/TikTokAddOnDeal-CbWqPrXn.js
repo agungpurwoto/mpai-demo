@@ -1,1 +1,0 @@
-import{j as o}from"./index-Ayxx3fsJ.js";import{L as r}from"./LegacyPromo-Bma5ZSdG.js";import"./ui-CYuoSfuM.js";import"./common-BNbmyiXR.js";function e(t){return o.jsx(r,{kind:"addon"})}export{e as default};

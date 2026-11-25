@@ -1,0 +1,1 @@
+import{r as s,j as i,aC as t}from"./index-Br3ndLmx.js";const e={"sku-campaigns":"v1-campaigns:tracker","api-sku-campaigns":"v1-campaigns:tracker","active-campaigns":"v1-campaigns:active","api-active-campaigns":"v1-campaigns:active"};function p({view:a,setView:c}){return s.useEffect(()=>c(e[a]??"v1-campaigns"),[a,c]),i.jsx(t,{})}export{p as default};

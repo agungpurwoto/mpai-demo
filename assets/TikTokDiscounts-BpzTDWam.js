@@ -1,0 +1,1 @@
+import{j as o}from"./index-Br3ndLmx.js";import{L as r}from"./LegacyPromo-BFJ6D4QA.js";import"./ui-D2px5n8e.js";import"./common-DVxG6__u.js";function n(t){return o.jsx(r,{kind:"discount"})}export{n as default};

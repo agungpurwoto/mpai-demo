@@ -1,0 +1,1 @@
+import{j as o}from"./index-Br3ndLmx.js";import{L as r}from"./LegacyPromo-BFJ6D4QA.js";import"./ui-D2px5n8e.js";import"./common-DVxG6__u.js";function a(t){return o.jsx(r,{kind:"bundle"})}export{a as default};

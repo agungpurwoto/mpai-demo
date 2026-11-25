@@ -1,0 +1,1 @@
+import{e as t}from"./index-Br3ndLmx.js";function o(){sessionStorage.getItem("growth-product-access")||(sessionStorage.setItem("growth-product-access","1"),t.post("/api/auth/product-access",{product:"growth"}).catch(()=>sessionStorage.removeItem("growth-product-access")))}export{o as t};
